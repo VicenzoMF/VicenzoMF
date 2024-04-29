@@ -9,7 +9,7 @@
 <li>📚 3rd semester Software Engineering student at PUCRS.</li>
 <li>🔍 FullStack Web development course at SenacRS.</li>
 <li>🎯 Interested in frontend development focused on frameworks.</li>
-<li>📫 How to reach me <a href="mailto:v.frusciante2@edu.pucrs.br">v.frusciante@edu.pucrs.br</a></li>
+<li>📫 How to reach me <a href="mailto:vicenzomf@gmail.com">vicenzomf@gmail.com</a></li>
 <br>
 
 <h2>Technology stack</h2>
