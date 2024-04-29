@@ -16,13 +16,11 @@
 <h4>- Tools I'm currently studying</p>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,supabase,tailwind,java,c,linux,python,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,supabase,tailwind,docker,java,c,linux,python,figma&theme=light)](https://skillicons.dev)
 
 </div>
 
 <h2>⭐Favorites projects</h2>
 
-
-<h4>
-  <a hre="https://github.com/VicenzoMF/letmeask-nwl6">teste</a>
-</h4>
+<li>🏥Faladoc.ai - This app will record the audio of your consultation and generate a medical record via AI(under development until 01/07)</li>
+<li>❔<a href="https://github.com/VicenzoMF/letmeask-nwl6">Let Me Ask</a> - It's a app for sending questions for your streamer!</li>
