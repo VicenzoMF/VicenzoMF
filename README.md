@@ -22,5 +22,5 @@
 
 <h2>⭐Favorites projects</h2>
 
-<li>🏥Faladoc.ai - This app will record the audio of your consultation and generate a medical record via AI(under development until 01/07)</li>
+<li>🏥Faladoc.ai - This app will record the audio of your consultation and generate a medical record via AI (under development until 01/07)</li>
 <li>❔<a href="https://github.com/VicenzoMF/letmeask-nwl6">Let Me Ask</a> - It's a app for sending questions for your streamer!</li>
