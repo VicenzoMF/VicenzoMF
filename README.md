@@ -6,7 +6,7 @@
      alt="doardot" />
 </div>
  
-<li>📚 3rd semester Software Engineering student at PUCRS.</li>
+<li>📚 4rd semester Software Engineering student at PUCRS.</li>
 <li>🔍 FullStack Web development course at SenacRS.</li>
 <li>🎯 Interested in frontend development focused on frameworks.</li>
 <li>📫 How to reach me <a href="mailto:vicenzomf@gmail.com">vicenzomf@gmail.com</a></li>
@@ -20,7 +20,6 @@
 
 </div>
 
-<h2>⭐Favorites projects</h2>
+<h2>⭐Experience</h2>
 
-<li>🏥Faladoc.ai - This app will record the audio of your consultation and generate a medical record via AI (under development until 01/07)</li>
-<li>❔<a href="https://github.com/VicenzoMF/letmeask-nwl6">Let Me Ask</a> - It's a app for sending questions for your streamer!</li>
+<li>🏥Faladoc.ai - This app will record the audio of your consultation and generate a medical record via AI (currently working)</li>
