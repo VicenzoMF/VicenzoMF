@@ -22,4 +22,4 @@
 
 <h2>⭐Experience</h2>
 
-<li>🏥Faladoc.ai - This app will record the audio of your medical appointment and generate a medical record via AI (03/2024 - now)</li>
+<li>🏥Faladoc.ai - This app records the audio of your medical appointment and generates a medical record using AI. You can edit it with a built-in Lexical text editor and save your appointments and patient information. (03/2024 - now)</li>
