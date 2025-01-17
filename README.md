@@ -13,7 +13,7 @@
 <br>
 
 <h2>Technology stack</h2>
-<h4>- Tools I'm currently studying</p>
+<h4>- Tools I'm currently using</p>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=next,ts,tailwind,supabase,fastapi,docker)](https://skillicons.dev)
