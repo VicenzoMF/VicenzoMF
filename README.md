@@ -16,7 +16,7 @@
 <h4>- Tools I'm currently studying</p>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,supabase,tailwind,docker,java,c,linux,python,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwind,supabase,docker&theme=light)](https://skillicons.dev)
 
 </div>
 
