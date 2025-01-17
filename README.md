@@ -6,7 +6,7 @@
      alt="doardot" />
 </div>
  
-<li>📚 4rd semester Software Engineering student at PUCRS.</li>
+<li>📚 5th semester Software Engineering student at PUCRS.</li>
 <li>🔍 FullStack Web development course at SenacRS.</li>
 <li>🎯 Interested in frontend development focused on frameworks.</li>
 <li>📫 How to reach me <a href="mailto:vicenzomf@gmail.com">vicenzomf@gmail.com</a></li>
