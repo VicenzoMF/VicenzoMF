@@ -21,5 +21,5 @@
 </div>
 
 <h2>⭐Experience</h2>
-
+<li>👷PainelConstru - A startup seeks the best prices and top suppliers of construction materials, offering a marketplace and an AI-powered chatbot.</li>
 <li>🏥Faladoc.ai - This app records the audio of your medical appointment and generates a medical record using AI. You can edit it with a built-in Lexical text editor and save your appointments and patient information. (03/2024 - now)</li>
