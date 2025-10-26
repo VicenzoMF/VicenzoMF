@@ -21,5 +21,6 @@
 </div>
 
 <h2>⭐Experience</h2>
-<li>👷PainelConstru - A startup seeks the best prices and top suppliers of construction materials, offering a marketplace and an AI-powered chatbot. (03/2025 - now)</li>
-<li>🏥Faladoc.ai - This app records the audio of your medical appointment and generates a medical record using AI. You can edit it with a built-in Lexical text editor and save your appointments and patient information. (03/2024 - 03/2025)</li>
+<li> Oryza Labs - On-demand software development, specializing in full-stack web and mobile applications. (08/2025 - now)</li>
+<li> PainelConstru - A startup seeks the best prices and top suppliers of construction materials, offering a marketplace and an AI-powered chatbot. (03/2025 - now)</li>
+<li> Faladoc.ai - This app records the audio of your medical appointment and generates a medical record using AI. You can edit it with a built-in Lexical text editor and save your appointments and patient information. (03/2024 - 03/2025)</li>
