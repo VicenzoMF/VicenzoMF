@@ -15,7 +15,7 @@
 <h4>- Tools I'm currently working with</p>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwind,supabase,fastapi,docker,openapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nestjs,prisma,ts,tailwind,supabase,fastapi,docker,openapi)](https://skillicons.dev)
 
 </div>
 
