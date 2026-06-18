@@ -10,7 +10,7 @@
 <li>🔍 FullStack Web development course at SenacRS.</li>
 <li>📫 How to reach me <a href="mailto:vicenzomf@gmail.com">vicenzomf@gmail.com</a></li>
 <br>
-
+<br>
 <h2>Technology stack</h2>
 <h4>- Tools I'm currently working with</p>
 <div align="center">
