@@ -162,13 +162,13 @@
     <text x="460" y="480" class="text highlight">|-- MY_OPEN_SOURCE/ <tspan fill="#ff003c" class="glitch1" font-size="12">*** NEW ***</tspan></text>
     
     <text x="460" y="510" class="text">|   |-- <tspan fill="#ff003c" font-weight="bold" class="glow">&gt; KATA</tspan></text>
-    <text x="460" y="530" class="text-small">|   |   |-- Architecture templates &amp; challenges</text>
+    <text x="460" y="530" class="text-small">|   |   |-- Web framework on Hono. Optimized for AI &amp; agents.</text>
 
     <text x="460" y="560" class="text">|   |-- <tspan fill="#00e5ff" font-weight="bold" class="glow">&gt; RELAY</tspan></text>
-    <text x="460" y="580" class="text-small">|   |   |-- Event-driven data synchronization</text>
+    <text x="460" y="580" class="text-small">|   |   |-- Interact with code agents from any device via MCP.</text>
 
     <text x="460" y="610" class="text">|   |-- <tspan fill="#ffbd2e" font-weight="bold" class="glow">&gt; PAGEBOY</tspan></text>
-    <text x="460" y="630" class="text-small">|   |   |-- Automated pagination &amp; data utility</text>
+    <text x="460" y="630" class="text-small">|   |   |-- Turn web articles into a queryable MCP server.</text>
     
     <!-- External OSS Contributions -->
     <text x="460" y="670" class="text highlight">|-- CONTRIBUTIONS/</text>
