@@ -159,25 +159,28 @@
     <text x="460" y="440" class="text-small">|   |-- <tspan fill="#00e5ff">Faladoc.ai/</tspan>    [Medical Voice AI Records]</text>
     
     <!-- Open Source Highlights -->
-    <text x="460" y="480" class="text highlight">|-- MY_OPEN_SOURCE/ <tspan fill="#ff003c" class="glitch1" font-size="12">*** NEW ***</tspan></text>
+    <text x="460" y="475" class="text highlight">|-- MY_OPEN_SOURCE/ <tspan fill="#ff003c" class="glitch1" font-size="12">*** NEW ***</tspan></text>
     
-    <text x="460" y="510" class="text">|   |-- <tspan fill="#ff003c" font-weight="bold" class="glow">&gt; KATA</tspan></text>
-    <text x="460" y="530" class="text-small">|   |   |-- Web framework on Hono. Optimized for AI &amp; agents.</text>
+    <text x="460" y="500" class="text">|   |-- <tspan fill="#ff003c" font-weight="bold" class="glow">&gt; KATA</tspan></text>
+    <text x="460" y="515" class="text-small">|   |   |-- Web framework on Hono.</text>
+    <text x="460" y="530" class="text-small">|   |   |   Optimized for AI &amp; agents.</text>
 
-    <text x="460" y="560" class="text">|   |-- <tspan fill="#00e5ff" font-weight="bold" class="glow">&gt; RELAY</tspan></text>
-    <text x="460" y="580" class="text-small">|   |   |-- Interact with code agents from any device via MCP.</text>
+    <text x="460" y="555" class="text">|   |-- <tspan fill="#00e5ff" font-weight="bold" class="glow">&gt; RELAY</tspan></text>
+    <text x="460" y="570" class="text-small">|   |   |-- Interact with code agents</text>
+    <text x="460" y="585" class="text-small">|   |   |   from any device via MCP.</text>
 
     <text x="460" y="610" class="text">|   |-- <tspan fill="#ffbd2e" font-weight="bold" class="glow">&gt; PAGEBOY</tspan></text>
-    <text x="460" y="630" class="text-small">|   |   |-- Turn web articles into a queryable MCP server.</text>
+    <text x="460" y="625" class="text-small">|   |   |-- Turn web articles into a</text>
+    <text x="460" y="640" class="text-small">|   |   |   queryable MCP server.</text>
     
     <!-- External OSS Contributions -->
-    <text x="460" y="670" class="text highlight">|-- CONTRIBUTIONS/</text>
+    <text x="460" y="680" class="text highlight">|-- CONTRIBUTIONS/</text>
     
-    <text x="460" y="700" class="text">|   |-- <tspan fill="#9ece6a" font-weight="bold" class="glow">&gt; MEDUSAJS</tspan></text>
+    <text x="460" y="705" class="text">|   |-- <tspan fill="#9ece6a" font-weight="bold" class="glow">&gt; MEDUSAJS</tspan></text>
     <text x="460" y="720" class="text-small">|   |   |-- Open source headless commerce</text>
     
     <text x="460" y="750" class="text">|   |-- <tspan fill="#e0af68" font-weight="bold" class="glow">&gt; HOPPSCOTCH</tspan></text>
-    <text x="460" y="770" class="text-small">|   |   |-- Open source API development ecosystem</text>
+    <text x="460" y="765" class="text-small">|   |   |-- Open source API development ecosystem</text>
   </g>
 
   <!-- Panel 3: Stats / Footer -->
