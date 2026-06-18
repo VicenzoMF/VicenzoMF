@@ -1,25 +1,23 @@
-<h2>Hi 👋, I'm Vicenzo</h2>
-
-<div>
-<a href="https://github.com/VicenzoMF">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicenzoMF&show_icons=true&theme=tokyonight&locale=en&layout=compact" 
-     alt="doardot" />
-</div>
- 
-<li>📚 7th semester Software Engineering student at PUCRS.</li>
-<li>🔍 FullStack Web development course at SenacRS.</li>
-<li>📫 How to reach me <a href="mailto:vicenzomf@gmail.com">vicenzomf@gmail.com</a></li>
-<br>
-<br>
-<h2>Technology stack</h2>
-<h4>- Tools I'm currently working with</p>
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,nestjs,prisma,ts,tailwind,supabase,fastapi,docker,openapi)](https://skillicons.dev)
-
+  <img src="./hacker-widget.svg" alt="Vicenzo MF Hacker Terminal" width="100%" />
 </div>
 
-<h2>⭐Experience</h2>
-<li> Oryza Labs - On-demand software development, specializing in full-stack web and mobile applications. (08/2025 - now)</li>
-<li> PainelConstru - A startup seeks the best prices and top suppliers of construction materials, offering a marketplace and an AI-powered chatbot. (03/2025 - now)</li>
-<li> Faladoc.ai - This app records the audio of your medical appointment and generates a medical record using AI. You can edit it with a built-in Lexical text editor and save your appointments and patient information. (03/2024 - 03/2025)</li>
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vicenzomf" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vicenzomf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/VicenzoMF/relay">
+    <img src="https://img.shields.io/badge/Open_Source-Relay-%230D1117?style=for-the-badge&logo=github" alt="Relay Repo">
+  </a>
+  <a href="https://github.com/VicenzoMF/kata">
+    <img src="https://img.shields.io/badge/Open_Source-Kata-%230D1117?style=for-the-badge&logo=github" alt="Kata Repo">
+  </a>
+  <a href="https://github.com/VicenzoMF/pageboy">
+    <img src="https://img.shields.io/badge/Open_Source-Pageboy-%230D1117?style=for-the-badge&logo=github" alt="Pageboy Repo">
+  </a>
+</div>
