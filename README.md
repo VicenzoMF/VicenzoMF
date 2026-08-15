@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer & Software Engineer
 
-Estudante de Ciência da Computação (7º semestre) na **PUCRS** e na **SenacRS**, transformando café em código escalável ☕
+Estudante de Engenharia de Software (8º semestre) na **PUCRS**, transformando café em código escalável ☕
 
 </div>
 
