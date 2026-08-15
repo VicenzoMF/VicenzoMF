@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer & Software Engineer
 
-Software Engineering student (8th semester) at **PUCRS**, turning coffee into scalable code ☕
+Software Engineering student at **PUCRS**, turning coffee into scalable code ☕
 
 </div>
 
