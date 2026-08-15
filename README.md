@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer & Software Engineer
 
-Estudante de Engenharia de Software (8º semestre) na **PUCRS**, transformando café em código escalável ☕
+Software Engineering student (8th semester) at **PUCRS**, turning coffee into scalable code ☕
 
 </div>
 
@@ -23,7 +23,7 @@ Estudante de Engenharia de Software (8º semestre) na **PUCRS**, transformando c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Banco de Dados**
+**Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -35,24 +35,24 @@ Estudante de Engenharia de Software (8º semestre) na **PUCRS**, transformando c
 
 ---
 
-## 💼 Experiência
+## 💼 Experience
 
 - **Oryza Labs** — Full Stack Web & Mobile
-- **PainelConstru** — Marketplace & Chatbot com IA
-- **Faladoc.ai** — Registros médicos por voz com IA
+- **PainelConstru** — Marketplace & AI Chatbot
+- **Faladoc.ai** — AI-powered voice medical records
 
 ---
 
-## 🚀 Projetos Open Source
+## 🚀 Open Source Projects
 
-- **KATA** — Framework web sobre o Hono, otimizado para IA e agentes
-- **RELAY** — Interaja com agentes de código de qualquer dispositivo via MCP
-- **PAGEBOY** — Transforma artigos da web em um servidor MCP consultável
+- **KATA** — Web framework built on Hono, optimized for AI and agents
+- **RELAY** — Interact with coding agents from any device via MCP
+- **PAGEBOY** — Turns web articles into a queryable MCP server
 
-## 🤝 Contribuições
+## 🤝 Contributions
 
-- **MedusaJS** — Plataforma open source de e-commerce headless
-- **Hoppscotch** — Ecossistema open source de desenvolvimento de APIs
+- **MedusaJS** — Open source headless commerce platform
+- **Hoppscotch** — Open source API development ecosystem
 
 ---
 
