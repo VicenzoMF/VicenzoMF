@@ -37,9 +37,9 @@ Software Engineering student at **PUCRS**, turning coffee into scalable code ☕
 
 ## 💼 Experience
 
-- **Oryza Labs** — Full Stack Web & Mobile
-- **PainelConstru** — Marketplace & AI Chatbot
-- **Faladoc.ai** — AI-powered voice medical records
+- **Oryza Labs** — Full Stack Web & Mobile · `Feb 2024 – Present`
+- **PainelConstru** — Marketplace & AI Chatbot · `Mar 2023 – Feb 2024`
+- **Faladoc.ai** — AI-powered voice medical records · `Sep 2022 – Mar 2023`
 
 ---
 
